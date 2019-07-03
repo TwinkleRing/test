@@ -6,4 +6,8 @@
 
 Hello World!
 
-i'm best programmer
+my name is young hun
+
+kim so hyun
+https://github.com/TwinkleRing/test.git
+
