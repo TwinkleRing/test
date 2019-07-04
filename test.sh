@@ -1,4 +1,7 @@
-#! /bin/bash
+#!/bin/bash
 
+echo "--------------------------"
 
-mkdir Kim
+for((a=0;a<$1;a++)); do
+	echo "*"
+done
